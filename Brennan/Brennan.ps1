@@ -1,5 +1,4 @@
 
-#<#
 function Import-RequiredModules {
     [CmdletBinding()]
     param (
